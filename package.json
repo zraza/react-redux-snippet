@@ -1,0 +1,21 @@
+{
+    "name": "react-redux-snippet",
+    "displayName": "react-redux-snippet",
+    "description": "React Redux Snippet",
+    "version": "0.0.1",
+    "publisher": "zraza",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
